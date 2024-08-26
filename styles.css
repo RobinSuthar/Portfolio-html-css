@@ -1,0 +1,150 @@
+
+
+/* This Section Inculdes all the coding for the Navigation Bar */
+.nav-bar{
+    display: grid;
+    justify-content: center;
+    justify-content: space-evenly;
+    grid-template-rows: 100px;
+    grid-template-columns:  0fr  0fr 0fr 0fr 0fr ;
+}
+
+.Navigation-bar{
+    margin-bottom: 50px;
+    margin-top: 10px;
+}
+/* This is for the besing the box and radius and color of text in the nav bar */
+.nvbr{
+    border: 5px solid black;
+    border-radius: 40px;
+    padding: 7px;
+    color: white;
+    background-color: black;
+}
+/* This is the text font from the google in  */
+.poppins-extrabold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    
+}
+
+.skills{
+    color: salmon;
+    text-shadow: 1px 1px #FF0000;
+}
+
+.yeseva-one-regular{
+    font-family: "Yeseva One", serif;
+    font-weight: 200;
+    font-style: italic;
+  }
+
+.robin{
+    color: salmon;
+    text-shadow : 2px 2px #FF0000;
+}
+
+.webdev{
+    color: salmon;
+    text-decoration: underline;
+}
+
+.MainContent{
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    font-size: 80px;
+    margin: 10 0 0 0 ;
+}
+p{
+    margin: 5px;
+}
+.ic img{
+    height: 100px;
+    width: 100px;
+    
+}
+
+.icons{
+    display: flex;
+    justify-content: center;
+}
+
+.githubimg{
+    border: 4px solid salmon;
+    border-radius: 50% ;
+}
+/* .Front-content{
+    float: left;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+  
+.mainphoto{
+    height: 500px;
+    width: 500px;
+    margin-top: 25px;
+    border-radius: 50%;
+    float: left;
+    margin-left: 60px;
+    margin-right: 30px;  
+}
+
+.hi{
+
+    font-size: 100px;
+    
+    margin:120px 0px 0px 0px;
+}
+
+.webdev{
+    font-size: 50px;
+    margin: 0 !important
+}
+.topline{
+    margin-top: 30px;
+}
+
+p{margin: 0;}
+
+.Front-content{
+    display: flex;
+    justify-content: center;
+    height: 50vh;
+}
+
+.pointing-down img{
+    height: 100px;
+    width: 100px;
+}
+
+.logo img{
+    height: 100px;
+    width: 100px;
+    
+}
+
+.logo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 15px;
+    height: 20vh;
+    margin-top: 10px;
+}
+
+
+.Container{
+    display: flex;
+    justify-content: space-evenly;
+
+
+
+}
+
+ */
